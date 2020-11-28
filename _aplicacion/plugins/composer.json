@@ -1,0 +1,16 @@
+{
+    "name": "dellubuntu/plugins",
+    "description": "sacinta5",
+    "type": "project",
+    "require": {
+        "phpoffice/phpspreadsheet": "^1.12",
+        "select2/select2": "^4.0"
+    },
+    "license": "GNU",
+    "authors": [
+        {
+            "name": "kerveros12v",
+            "email": "kerveros12v@aol.com"
+        }
+    ]
+}
